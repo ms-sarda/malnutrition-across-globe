@@ -11,6 +11,8 @@ The dataset that we have worked with is the [UNICEF Child Malnutrition dataset](
 
 The data spans all the countries and provides data for 21 years - from 2000 to 2020. It is important to note that these numbers do not account for the impact of COVID-19. For each country, it includes the numbers for overweight, stunting, wasting and underweight children. In each of these categories, there are three estimates of the numbers - point estimate, lower uncertainty bound and upper uncertainty bound. 
 
+## Project Resources
+
 Proposal: https://docs.google.com/document/d/1Vwpt369Od5B2Q9kfjdT-UWACMtF--_b7PAmT1f8v4Ms/edit?usp=sharing
 
 Prototype: https://docs.google.com/document/d/1EMv6GbYJTjS_Z1yoMzRNovOAZ8DhHJu6UEBbjR8j-Fg/edit?usp=sharing
